@@ -1,0 +1,69 @@
+{
+    "status": true,
+    "message": "",
+    "data": {
+        "zhNotice": "蓝鲸的第一款独立游戏正式上线,谷歌商店搜索：Whalerun。即可下载！感谢大家！！",
+        "enNotice": "",
+        "descEn": [
+            "Welcome to use！",
+            "Connect the world, so easy!"
+            
+        ],
+        "desc": [
+            "欢迎使用！",
+            "连接世界，如此简单！"
+            
+        ],
+        "qa": [
+            {
+                "zhQuestion": "逗鲨是什么？",
+                "zhAnswer": "逗鲨是一款采用全新协议的vpn，高效安全！",
+                "enQuestion": "What is a FunnyShark?",
+                "enAnswer": "FunnyShark is a new protocol using the VPN, efficient and safe!"
+            },
+            {
+                "zhQuestion": "逗鲨免费吗？",
+                "zhAnswer": "完全免费！",
+                "enQuestion": "Is it free to play with Funnyshark?",
+                "enAnswer": "Totally free!"
+            }
+        ],
+        "comment": {
+            "zhTitle": "评价我们！",
+            "zhContent": "感谢大家对蓝鲸不弃！蓝鲸重新回来了，蓝鲸越战越勇。在成长的过程中，需要大家的反馈和支持，如果觉得蓝鲸不错，请给我们留言，帮我们改进，免费不易！谢谢大家！",
+            "enTitle": "Give us a rating！",
+            "enContent": "Thank you very much!"
+        },
+        "adList": [{
+                "title": "",
+                "zhUrl": "https://whaleserver.site/config/shark/ad_0.1.jpg",
+                "enUrl": "https://whaleserver.site/config/shark/ad_0.1.jpg",
+                "action": ""
+            },
+            {
+                "title": "",
+                "zhUrl": "https://whaleserver.site/config/shark/ad_0.2.jpg",
+                "enUrl": "https://whaleserver.site/config/shark/ad_0.2.jpg",
+                "action": ""
+            }
+        ],
+        "info": [
+            {
+                "zhTitle": "一段日记！关于游戏！关于它！",
+                "zhContent": "一个不务正业的开发者终于把人生第一款独立游戏开发完成！vpn这行太多尔虞我诈，真心受不起，或者我可以靠游戏的收入来维持服务器的开支，或者我可以靠游戏的收入来给帮助蓝鲸逗鲨成长的朋友提供更好的服务，或者。。。或者。。。！太多的期望。其实总是需要去迈出第一步，蓝鲸我做到了！逗鲨我也做到了！今天whalerun我也做到了，这算是我人生的一次尝试。半年了！半年了！这游戏曾几何时！我都已经放弃了他！只是对于那两位帮助我的朋友！我有点有愧于他！呵呵！当初是我骗他们帮我画的原画！当初是我骗他们帮我搭的框架，然后因为蓝鲸遇到的挫折，我放弃了！是逗鲨让我看到希望！我需要靠其他的方式来提高自己的竞争力！为大家提供更优质的服务！胖鲸快跑游戏完成后！我会继续完善这两条鱼的加速模式，继续优化！把新的加速模式加入进来，不敢说吊打全部免费，只能说做好自己！其他让用户去体验把！不好的我会慢慢改！对于这新游戏！欢迎大家来Whalerun的全新世界体验！游戏里尽速模式前几十名。胖鲸会提供一个独立的服务器作为激励，为您各个客户端提供上网服务！对！这是广告！但是我是真的没办法！我是真的需要你们的帮忙！感谢！期待在whalerun与您相遇！我的游戏ID：胖鲸快跑。谢谢大家！谷歌搜索：《whalerun》，或者《胖鲸快跑》即可下载。面对这2020！蓝鲸准备好了！逗鲨准备好了！您呢？加油吧！2020-03-03!！",
+                "enTitle": "Whalerun is officially online",
+                "enContent": "Whalerun is officially online, Google search: whalerun is available for download!!"
+            },{
+                "zhTitle": "没错！只是一段牢骚！！",
+                "zhContent": "今晚真特别！真的很特别！特别的卡！而且服务器也挂掉好多台，本来以为可以离“好用”更近一步！没想到今天又给打回原形，现在要离“能用”的程度还需要努力！你们不放弃，我就继续维护！加油！呸！如果打气有用，打感情牌的套路有用！我又何必那么辛苦去维护！呵！夜深人静！对着电脑！看着断流的视频！其实也别有一番风味！苦中作乐！这就是我唯一坚持下去的乐趣！为了蓝鲸和逗鲨这两个不争气的孩子！以为说新年大一岁了，长大了，真想对他们说，孩子你们已经长大了！该学会自己去维护自己的服务器了！你怎么服务器说挂就挂！ok这一切都是幻想！幻想！晚上睡一觉就会好起来的！做自己喜欢做的！尽人事，听天命！早点睡！晚安！！",
+                "enTitle": "Everything will be fine!",
+                "enContent": "everything will be fine！"
+            },{
+                "zhTitle": "胖鲸归来！",
+                "zhContent": "大概有一个多月了把！啦啦啦！蓝鲸重新回来了！全新的协议希望能给大家带来不一样的体验。谢谢大家还是没有把我遗忘！谢谢！！",
+                "enTitle": "The bluewhale is back!!",
+                "enContent": "About a month! The blue whale is back! The new protocol is expected to bring a different experience. Thank you for not forgetting me! Thank you very much!"
+            }
+        ]
+    }
+}
