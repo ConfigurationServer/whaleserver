@@ -292,19 +292,7 @@
                         "zhCity": "rNj5w8SKf5Hq/R39gjaPuw==",
                         "enCity": "TBqjI6HAT/oOjOvJoq8tAA==",
                         "s": "aSPh9rxWj+BeIVeLDzGaRg=="
-                    }
-                ]
-            },
-            {
-                "level": "S级-星耀服务器",
-                "levelEn": "Class S - starlight server",
-                "rc": 20,
-                "ct": 1,
-                "kc": "",
-                "m": "",
-                "consume": "0",
-                "list": [
-                    {
+                    },{
                         "host": "40OTqynkVzgaTO5UFR/eINva+FrmwMsV59vZ80PQfyc=",
                         "port": "anfvgbNUqmKlENUMTCCwvw==",
                         "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
@@ -333,51 +321,12 @@
                         "zhCity": "iY0GqtLuRQ8D2GNqHWkfrA==",
                         "enCity": "34JVQ9DjoobMK1ewzzTyhA==",
                         "s": "kJG1X5hXUbI6A4HCD/C18g=="
-                    },
-                    {
-                        "host": "SajDk4HwRScjhtF9zzOmN+/CIO+tiBfR75PEtZyUdT4=",
-                        "port": "anfvgbNUqmKlENUMTCCwvw==",
-                        "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
-                        "zhCity": "9QuawSX2MDRlsJtoWW68CA==",
-                        "enCity": "XMP54tmaeCe2HogGEepKKg==",
-                        "s": "f5Cf66WVyxn+uxE19XcTHg=="
-                    },
-                    {
-                        "host": "W3ilJ9SfwmUXxhMVPk6Xwu/CIO+tiBfR75PEtZyUdT4=",
-                        "port": "anfvgbNUqmKlENUMTCCwvw==",
-                        "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
-                        "zhCity": "0PpM4olVtxJcAtNfD9F+Ow==",
-                        "enCity": "zq9IxrLzeWh5Oc//NTSoNw==",
-                        "s": "KeMKSmPTB8mMLXPbW8gGyw=="
-                    },{
-                        "host": "KAhAicbMCux5g2AR9TMq4Nva+FrmwMsV59vZ80PQfyc=",
-                        "port": "anfvgbNUqmKlENUMTCCwvw==",
-                        "country": "wj8Guy9ChFnCUchIgnUgvQ==",
-                        "zhCity": "4p16eNRgIUcE8z2zkvLOMA==",
-                        "enCity": "v3sbGxk2ZyVZDn4G+2XBrQ==",
-                        "s": "lFK0ubU1xHmJ9a2JD3Htzw=="
-                    },
-                    {
-                        "host": "chrAe64AiK/TEBpb1OXtRdva+FrmwMsV59vZ80PQfyc=",
-                        "port": "anfvgbNUqmKlENUMTCCwvw==",
-                        "country": "wj8Guy9ChFnCUchIgnUgvQ==",
-                        "zhCity": "5dnMrMVLFUmHJZE7hw5KHQ==",
-                        "enCity": "uUTKBgpHoSyK8qPuLXtT4g==",
-                        "s": "TNgtosHPXelHoGmhiT8aKw=="
-                    },
-                    {
-                        "host": "iRNE2qZ5nPIe/xoJiUgfHdva+FrmwMsV59vZ80PQfyc=",
-                        "port": "anfvgbNUqmKlENUMTCCwvw==",
-                        "country": "wj8Guy9ChFnCUchIgnUgvQ==",
-                        "zhCity": "n30l6M1JxUHQe+M7ap4Pjg==",
-                        "enCity": "4QKumt7LrwSgY48bZ1/Tag==",
-                        "s": "k4I6CnV+dQHfBgjgilnNuA=="
                     }
                 ]
             },
             {
-                "level": "SS-加速节点",
-                "levelEn": "SS-FastNode",
+                "level": "S级-加速节点",
+                "levelEn": "Class S - FastNode",
                 "rc": 20,
                 "consume": "0",
                 "ct": 3,
